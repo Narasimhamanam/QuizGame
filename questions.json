@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is an application of machine learning?",
+    "options": ["Sentiment analysis", "Traffic prediction", "Speech and face recognition", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which machine learning algorithm is based on the idea of bagging?",
+    "options": ["Decision tree", "Random forest", "Classification", "Regression"],
+    "answer": "Random forest"
+  },
+  {
+    "question": "Which of the following is a common class of problems in machine learning?",
+    "options": ["Regression", "Classification", "Clustering", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is not a supervised learning algorithm?",
+    "options": ["Linear regression", "Logistic regression", "K-means clustering", "Support vector machine"],
+    "answer": "K-means clustering"
+  },
+  {
+    "question": "Which evaluation metric is commonly used for classification tasks when class imbalance is present?",
+    "options": ["Mean Squared Error (MSE)", "Accuracy", "F1-score", "R-squared"],
+    "answer": "F1-score"
+  },
+  {
+    "question": "Which type of machine learning algorithm aims to mimic the process of human learning?",
+    "options": ["Supervised learning", "Unsupervised learning", "Reinforcement learning", "Deep learning"],
+    "answer": "Reinforcement learning"
+  },
+  {
+    "question": "Which of the following is the main goal of machine learning?",
+    "options": ["Enable computers to learn from data", "To automate manual tasks", "To make computers intelligent", "To generate self-aware machines"],
+    "answer": "Enable computers to learn from data"
+  },
+  {
+    "question": "Which of the following is not a feature of K-Nearest Neighbors (KNN)?",
+    "options": ["KNN is simple and pretty intuitive", "KNN constantly evolves", "KNN has assumptions", "No Training Step"],
+    "answer": "KNN has assumptions"
+  },
+  {
+    "question": "Which of the following is a real-world application of machine learning?",
+    "options": ["Fraud detection", "Chatbots", "Digital assistants", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following machine learning techniques helps in detecting outliers in data?",
+    "options": ["Classification", "Clustering", "Anomaly detection", "All of the above"],
+    "answer": "Anomaly detection"
+  }
+]
